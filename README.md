@@ -24,7 +24,7 @@ Fonte de dados:
 <b>Tarefa 4:</b> Análise e representação dos conjuntos de dados processados.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Variação do Dólar - Governo - Brasil](https://github.com/MonteiroOscar98/Divida-Externa-Brasil/blob/main/D%C3%ADvida_Externa_Brasil.ipynb)
+<b>Jupyter Notebook:</b> [Variação do Dólar - Governo - Brasil](https://github.com/MonteiroOscar98/Variacao-Dolar-Governo-Brasil/blob/main/Variacao_Dolar_Governo_Brasil.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
